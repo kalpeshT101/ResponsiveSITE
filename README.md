@@ -1,2 +1,2 @@
-# Omnifood
-A Responsive website built using CSS3 &amp; HTML5 
+A Responsive website built using CSS3 &amp; HTML5
+         
